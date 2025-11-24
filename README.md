@@ -1,5 +1,9 @@
 # llm_api_cli_tool
 A command-line adventure game powered by Google's Gemini AI. Choose your genre, make decisions, and watch your unique story unfold!
+## Team Names:
+1. Supriya Nannapaneni (sn367)
+2. Sejal Jagtap (ssj40)
+3. Shambhavi Khanna (sk1014)
 
 ### Features
 1. 6 story genres (Fantasy, Sci-Fi, Mystery, Horror, Western, Pirate)
