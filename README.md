@@ -20,5 +20,5 @@ A command-line adventure game powered by Google's Gemini AI. Choose your genre, 
 3. Dependencies: None (standard library only)
 
 ### Example Usage
-![alt text](<screenshots/Screenshot 2025-11-24 at 5.21.17 PM.png>)
+![alt text](<screenshots/Screenshot 2025-11-24 at 5.26.49 PM.png>)
 ![alt text](<screenshots/Screenshot 2025-11-24 at 5.24.54 PM.png>)
